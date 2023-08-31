@@ -1,2 +1,4 @@
 # ProjetoAluraPlus
-Projeto Alura Plus do curso HTML e CSS, aplicado na turma 2TDS do colégio CEPPAT
+Alunos:
+Guilherme Pereira Campos n 00
+Senhor Cepato Tomazinho  n 01
